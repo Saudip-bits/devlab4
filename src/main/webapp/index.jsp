@@ -4,7 +4,7 @@
     <title>Lab4</title>
 </head>
 <body>
-<h1>Welcome to DevOps Lab4 - Maven & Git</h1>
+<h1>Tomcat - Maven</h1>
 <p><a href="info">Click here to view info</a></p>
 <h1> By Saudip - 2021wb86349 </h1>
 
